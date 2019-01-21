@@ -1,4 +1,4 @@
-# Steam-downloadhelper-directory-sorter
+# Steam-workshop-downloader-directory-sorter
 Downloads from workshop downloaders are uncategorised: this sorts them
 
 https://steamworkshopdownloader.io/ and similar often produce a set of files without the folder structure.
